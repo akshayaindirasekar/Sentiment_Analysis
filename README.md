@@ -2,7 +2,12 @@
 
 # 🧠 AI Sentiment & Topic Analyzer
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshayaindirasekar/Sentiment_Analysis/blob/main/Sentiment_Analysis_Demo.ipynb)
+
 A professional, web-based NLP tool designed to analyze text sentiment and categorize it into specific topics using state-of-the-art transformer models.
+
+🚀 **Live Interactive Demo**: Run the app directly in your browser with 1 click:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/akshayaindirasekar/Sentiment_Analysis/blob/main/Sentiment_Analysis_Demo.ipynb)
 
 ---
 

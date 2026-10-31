@@ -59,4 +59,4 @@ demo = gr.Interface(
     description="Analyze text to determine its sentiment and topic using Hugging Face Transformers."
 )
 
-demo.launch()
+demo.launch(share=True)
